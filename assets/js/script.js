@@ -20,6 +20,12 @@ const workDay = [
   "5:00 pm",
   "6:00 pm",
 ];
+var currentHour = function () {
+  present = moment().format("h:mm a");
+  console.log(present);
+  return present;
+};
+
 //looping through array to create planner rows
 for (let i = 0; i < workDay.length; i++) {
   let hourBlock = $("<div>").addClass("row");
@@ -35,3 +41,13 @@ for (let i = 0; i < workDay.length; i++) {
   $(hourBlock).append(hourBlockTime, hourBlockTask, hourBlockSave);
   $(".container").append(hourBlock);
 }
+
+currentHour();
+// if (currentHour < workDay[i]) {
+//     hourBlockTask.addClass("bg-danger");
+//   }
+//   if ((currentHour) => workDay[i]) {
+//     hourBlockTask.addClass("bg-success");
+//   } //else {
+  //   hourBlockTask.addClass("bg-warning");
+  // }
