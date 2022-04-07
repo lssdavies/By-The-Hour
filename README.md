@@ -8,8 +8,8 @@ By-The-Hour is a simple browser calender app that allows users to schedule out t
 The allows users to add organization to their day with this easily accessable application and it users the browser's local storage to save tasks.
 
 ## Application
-[Deployed Application](https://lssdavies.github.io/By-The-Hour/)
-[Github Repository](https://github.com/lssdavies/By-The-Hour)
+- [Deployed Application](https://lssdavies.github.io/By-The-Hour/)
+- [Github Repository](https://github.com/lssdavies/By-The-Hour)
 
 ## Application Design and Layout
 
