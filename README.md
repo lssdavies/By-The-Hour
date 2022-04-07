@@ -1,10 +1,19 @@
 # By-The-Hour
 
+
 ## Description
 
 By-The-Hour is a simple browser calender app that allows users to schedule out their work day tasks by the hour.
 
 The allows users to add organization to their day with this easily accessable application and it users the browser's local storage to save tasks.
+
+## Application
+[Deployed Application](https://lssdavies.github.io/By-The-Hour/)
+[Github Repository](https://github.com/lssdavies/By-The-Hour)
+
+## Application Design and Layout
+
+![Web App](/assets/images/webapp.png)
 
 ## Technologies Used
 
@@ -21,7 +30,7 @@ HTML,CSS,JavaScript,JQuery,Bootstrap
 
 To install this project follow the  instructions below:
 
-The user can access the app via this link [here](https://github.com/lssdavies/) or the can clone the git hub repository to run on their local machine.
+The user can access the app via this link [here](https://lssdavies.github.io/By-The-Hour/) or the can clone the git hub repository to run on their local machine.
   
 ## Contributing
 
